@@ -13,7 +13,7 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     await alive.edit("**`WE ARE ANONYMOUS USING THUNDER SECURITY`**\n\n"
                      "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @Anonymous_290\n"
-                     "`Bot created by:` [Anonymous_290](tg://user?id=1001239766297)\n"
+                     "`Bot created by:` [Anonymous_290](tg://user?id=719877937)\n"
                      "`Database Status: Databases functioning normally! The Secutity Is Stronger Connected To CTOS\n\nAlways with you Sir Waiting For Your Command\n`"
                      f"`My peru owner`: {DEFAULTUSER}\n"
                      "[Deploy this userbot Now](https://github.com/santoshArnold/ThunderUserBot)")
