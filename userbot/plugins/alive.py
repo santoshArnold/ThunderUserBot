@@ -11,9 +11,9 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No name set yet nibba, check p
 @command(outgoing=True, pattern="^.alive$")
 async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
-    await alive.edit("**`YO BRO JABTAK YE KHEL KHATAM NHI HOTA APUN IDHARICH HAI ψ(｀∇´)ψ`**\n\n"
-                     "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @A_Dark_Princ3\n"
-                     "`Bot created by:` [SnapDragon](tg://user?id=719877937)\n"
-                     "`Database Status: Databases functioning normally!\n\nAlways with you, my master!\n`"
+    await alive.edit("**`WE ARE ANONYMOUS USING THUNDER SECURITY`**\n\n"
+                     "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @Anonymous_290\n"
+                     "`Bot created by:` [Anonymous_290](tg://user?id=1001239766297)\n"
+                     "`Database Status: Databases functioning normally! The Secutity Is Stronger Connected To CTOS\n\nAlways with you Sir Waiting For Your Command\n`"
                      f"`My peru owner`: {DEFAULTUSER}\n"
-                     "[Deploy this userbot Now](https://github.com/Dark-Princ3/X-tra-Telegram)")
+                     "[Deploy this userbot Now](https://github.com/santoshArnold/ThunderUserBot)")
