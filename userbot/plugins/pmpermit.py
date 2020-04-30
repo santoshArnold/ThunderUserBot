@@ -13,7 +13,7 @@ PREV_REPLY_MESSAGE = {}
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No name set yet nibba, check pinned message in** @XtraTgBot"
 USER_BOT_WARN_ZERO = "`You were spamming my peru master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot.` **Now GTFO, i'm playing minecraft** "
 USER_BOT_NO_WARN = ("[──▄█▀█▄─────────██ \n▄████████▄───▄▀█▄▄▄▄ \n██▀▼▼▼▼▼─▄▀──█▄▄ \n█████▄▲▲▲─▄▄▄▀───▀▄ \n██████▀▀▀▀─▀────────▀▀](tg://user?id=742506768)\n\n"
-                    "`Hello, this is X-tra-Telegram Security Service.You have found your way here to my master,`"
+                    "`HELLO THIS IS THUNDER SECURITY EVERY ANONYMOUS ARE USING IT FOR THEIR SECURITY I HOPE YOU ARE HERE FOR MY MASTERS HELP`"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
                     "Leave your name, phone number, address and 10k$ and hopefully you'll get a reply within 2 light years.`\n\n"
                     "** Send** `/start` ** so that we can decide why you're here.**")
@@ -36,7 +36,7 @@ if Var.PRIVATE_GROUP_ID is not None:
                     await PREV_REPLY_MESSAGE[chat.id].delete()
                     del PREV_REPLY_MESSAGE[chat.id]
                 pmpermit_sql.approve(chat.id, reason)
-                await event.edit("Approved Nibba [{}](tg://user?id={})".format(firstname, chat.id))
+                await event.edit("APPROVED MASTER WAITING FOR YOUR COMMAND [{}](tg://user?id={})".format(firstname, chat.id))
                 await asyncio.sleep(3)
                 await event.delete()
 
