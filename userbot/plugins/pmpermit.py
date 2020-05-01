@@ -12,7 +12,7 @@ PREV_REPLY_MESSAGE = {}
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No name set yet nibba, check pinned message in** @Anonymous_hackersbot"
 USER_BOT_WARN_ZERO = "`You were spamming my  master's inbox, henceforth your game is over retarded lame ass has been blocked by my master's servant.` **NOW GET LOST, WE ARE BUSY** "
-USER_BOT_NO_WARN = ("[THUNDER SECURITY RUNNING \n             zeeeeee- \n            z$$$$$$ \n           d$$$$$$ \n          d$$$$$P \n         d$$$$$P \n        $$$$$$ \n      .$$$$$$ \n     .$$$$$$ \n    4$$$$$$$$$$$$$ \n        *******$$$$ \n            .$$$$ \n            .$$$ \n           4$P$ \n          z$$ \n          zP \n        z$ \n       / \n](tg://user?id=484262591)\n\n"
+USER_BOT_NO_WARN = ("[THUNDER SECURITY RUNNING \n             zeeeeee- \n            z$$$$$$ \n           d$$$$$$ \n          d$$$$$P \n         d$$$$$P \n        $$$$$$ \n      .$$$$$$ \n     .$$$$$$ \n    4$$$$$$$$$$$$$ \n        *******$$$$ \n            .$$$$ \n            .$$$ \n           4$P$ \n          z$$ \n          zP \n        z$ \n       / \n](https://t.me/Anonymous_290)\n\n"
                     "`HELLO THIS IS THUNDER SECURITY EVERY ANONYMOUS ARE USING IT FOR THEIR SECURITY I HOPE YOU ARE HERE FOR MY MASTERS HELP`"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
                     "Leave your name, phone number, address and 10k$ and hopefully you'll get a reply within 2 light years Dont Misbehave Otherwise Your Datas Will be Hacked By Me.`\n\n"
