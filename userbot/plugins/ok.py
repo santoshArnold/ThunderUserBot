@@ -16,6 +16,7 @@ async def _(event):
         return
     animation_interval = 0.00001
     animation_ttl = range(0, 90)
+    user_id = replied_user.user.id
     input_str = event.pattern_match.group(1)
     if input_str == "ok":
         await event.edit(input_str)
@@ -27,17 +28,26 @@ async def _(event):
             "Y",
             "O",
             "U",
-            "B",
-            "C",
-            "FK",
-            "UU",
-            "FCUK",
-            "UOY",
-            "C",
-            "F",
-            "Y",
-            "F",
-            "Ok Sar 😇"
+            "Importing Every Prefrences from The User",
+            "___INTIALIZING___",
+            "$%!$@%!$@",
+            "!@##&!!#^",
+            "@#%&!%#&!",
+            "@%#!&#%!&",
+            "!&*@!*@^@",
+            "User Id Extracted Successfully",
+            "HACKING COMMITED DATABASES ARE WEAK TRY INJECTING @#@!#!#",
+            "!^^!*#%!%#!!",
+            "INJECTING SUCCESSFUL",
+            "PRESS .hack TO HACK THE USERS DATA WITH LOGIN CREDENTIAL",
+            "COMMAND EXCUTED",
+            "WAITING FOR YOUR COMMAND SIR",
+            "#%!^!#%@$",
+            "AUTO EXITING INTIATED EXITING IN 2Min",
+            "@%!$#!%$!%",
+            "$@%@@%$$%!",
+            "SUCCESSFULLY EXITED",
+            print (user_id)
         ]
 
         for i in animation_ttl:
